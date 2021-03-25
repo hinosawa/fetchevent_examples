@@ -1,8 +1,8 @@
 import { Fragment, h, homepage } from "./homepage/mod.tsx";
 
 const PROJECTS: Record<string, string> = {
-  Deno: "https://github.com/capsidjs/capsid",
-  "dext.ts": "https://github.com/kt3k/lepont",
+  capsid: "https://github.com/capsidjs/capsid",
+  lepont: "https://github.com/kt3k/lepont",
 };
 
 homepage(() => {
