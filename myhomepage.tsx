@@ -10,11 +10,11 @@ homepage(() => {
     <>
       <header>
         <img
-          src="https://avatars.githubusercontent.com/u/7829205"
+          src="https://avatars.githubusercontent.com/u/1198707"
           style="max-width: 120px; border-radius: 100%;"
         />
         <h2>Yoshi</h2>
-        <a href="mailto:yoshiya@deno.com">luca@deno.com</a>
+        <a href="mailto:yoshiya@deno.com">yoshita@deno.com</a>
       </header>
       <div style="margin-top: 64px;">
         {Object.keys(PROJECTS).map((name) => (
